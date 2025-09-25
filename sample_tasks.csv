@@ -1,0 +1,20 @@
+Work Package,Task Number,Task Name,Task Start Month,Task End Month,Duration,Person-month overall,Person-month per month
+WP1 - Project Management,T1.1,Project Planning and Setup,0,2,2,4,2.0
+WP1 - Project Management,T1.2,Requirements Gathering,1,3,2,6,3.0
+WP1 - Project Management,T1.3,Stakeholder Communication,0,20,20,8,0.4
+WP2 - System Design,T2.1,Architecture Design,2,4,2,8,4.0
+WP2 - System Design,T2.2,Database Design,3,5,2,6,3.0
+WP2 - System Design,T2.3,API Design,4,6,2,4,2.0
+WP3 - Development,T3.1,Backend Development,5,10,5,20,4.0
+WP3 - Development,T3.2,Frontend Development,6,11,5,15,3.0
+WP3 - Development,T3.3,Integration Development,10,13,3,9,3.0
+WP4 - Testing,T4.1,Unit Testing,8,12,4,8,2.0
+WP4 - Testing,T4.2,Integration Testing,12,15,3,6,2.0
+WP4 - Testing,T4.3,System Testing,14,16,2,4,2.0
+WP4 - Testing,T4.4,User Acceptance Testing,15,17,2,4,2.0
+WP5 - Deployment,T5.1,Environment Setup,16,17,1,2,2.0
+WP5 - Deployment,T5.2,Production Deployment,17,18,1,3,3.0
+WP5 - Deployment,T5.3,Go-Live Support,18,20,2,4,2.0
+WP6 - Documentation,T6.1,Technical Documentation,10,16,6,6,1.0
+WP6 - Documentation,T6.2,User Documentation,14,18,4,4,1.0
+WP6 - Documentation,T6.3,Training Materials,16,20,4,4,1.0

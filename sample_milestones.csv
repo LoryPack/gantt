@@ -1,0 +1,10 @@
+Milestone number,Milestone name,Related WP(s),Due date (in month),Means of verification
+MS1,Project Kickoff,WP1,0,Project charter approved and team assembled
+MS2,Requirements Complete,WP1,2,Requirements document signed off by stakeholders
+MS3,Design Phase Complete,WP2,4,System architecture and design documents approved
+MS4,Development Phase 1 Complete,WP3,8,Core functionality implemented and tested
+MS5,Development Phase 2 Complete,WP3,12,Additional features implemented and tested
+MS6,Testing Complete,WP4,14,All test cases passed and quality gates met
+MS7,User Acceptance Testing Complete,WP4,16,UAT passed with stakeholder approval
+MS8,Production Deployment,WP5,18,System deployed to production environment
+MS9,Project Closure,WP6,20,Project documentation complete and lessons learned documented
