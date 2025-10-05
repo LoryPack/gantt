@@ -1,3 +1,7 @@
+<a href="https://www.buymeacoffee.com/lorenzopacq">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 40px;">
+</a>            
+
 # Gantt Chart Generator
 
 A Python-based tool for creating professional Gantt charts from project data. This tool supports multiple input formats (CSV, Excel, YAML) and generates visually appealing project timelines with work packages, tasks, and milestones.
